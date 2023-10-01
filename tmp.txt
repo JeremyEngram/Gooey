@@ -1,0 +1,1 @@
+['c:\\Users\\Owner\\Downloads\\Omniscient Frontends\\gooey\\Omniscient GUI Installer.py', '--version', '1', '--ignore-gooey', '--', 'https://github.com/JeremyEngram/Omniscient']

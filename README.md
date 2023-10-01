@@ -69,12 +69,7 @@ run `setup.py`
 
 Gooey is attached to your code via a simple decorator on whichever method has your `argparse` declarations (usually `main`).
 
-    from gooey import Gooey
-
-    @Gooey      <--- all it takes! :)
-    def main():
-      parser = ArgumentParser(...)
-      # rest of code
+  cle
 
 Different styling and functionality can be configured by passing arguments into the decorator.
 
